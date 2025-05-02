@@ -1,4 +1,4 @@
-# Arquitectura CMI – Versión 0.2.0 Alpha
+# Arquitectura CMI – Versión 0.2.1 Alpha
 
 ## 📚 ¿Qué es la Arquitectura CMI?
 
