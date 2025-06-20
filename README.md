@@ -1,4 +1,4 @@
-# Arquitectura CMI
+![Test Image 4](https://github.com/UTOQINGAPP/Arquitectura-CMI/blob/fddaaa6c4a708e3d32b99d9af916ca1141142c11/assets/logo%20CMI.png)
 
 ## ✨ Introducción
 
