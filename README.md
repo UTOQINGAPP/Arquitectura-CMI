@@ -43,7 +43,7 @@ CMI está basada en principios sólidos de ingeniería de software:
 
 ## 🌐 Navegación del repositorio
 
-- `/docs/`: versiones de la arquitectura.
+- `/docs/`: versiones de la arquitectura (descontinuado, el contenido y funcion de la carpeta sera reemplazado en el futuro, revise la wiki como documentacion oficial).
 - `/examples/`: ejemplos de uso en estructuras reales.
 - `/assets/`: recursos visuales para comprender la arquitectura.
 
